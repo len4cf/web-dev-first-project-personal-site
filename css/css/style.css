@@ -1,0 +1,30 @@
+
+    body {
+       background-color: #F4D9E7
+           
+
+     }
+     
+     hr {
+       border-style: none;
+       border-top-style: dotted;
+       border-color: pink; 
+       border-width: 5px;
+       height: 0px;
+       width: 3%;
+
+     }
+
+     h1 {
+        color: #CF4DCE;
+
+
+     }
+
+     h3 {
+        color: #CF4DCE;
+
+
+     }
+
+
